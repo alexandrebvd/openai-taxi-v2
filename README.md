@@ -28,3 +28,9 @@ python main.py
 ```  
 
 This will run the file main.py, which finds the best reward average in a 100 episodes window.
+
+### Evaluate your Performance
+
+OpenAI Gym defines "solving" this task as getting average return of 9.7 over 100 consecutive trials.
+
+While this coding exercise is ungraded, we recommend that you try to attain an average return of at least 9.1 over 100 consecutive trials (best_avg_reward > 9.1).
