@@ -12,8 +12,6 @@ This project requires **Python 3.7** and the following Python libraries installe
 - [math](https://docs.python.org/3/library/math.html)
 - [deque](https://docs.python.org/2/library/collections.html)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
-
 
 For this coding exercise, you will use OpenAI Gym's Taxi-v2 environment to design an algorithm to teach a taxi agent to navigate a small gridworld. The goal is to adapt all that you've learned in the previous lessons to solve a new environment!
 
